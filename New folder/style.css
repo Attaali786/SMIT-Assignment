@@ -1,0 +1,109 @@
+       /* Start  */
+       .starthead{
+        text-align: center;
+        /* text-decoration: underline; */
+        transition: color 0.3s ease;
+        transform: 0.3s ease;
+    }
+    .starthead:hover{
+        text-decoration: underline;
+        cursor: pointer;
+        transition: 0.6s;
+        transform: scale(1.05);
+        color: orangered;
+    }
+    body{
+       background-color: rgb(255, 174, 0);
+    }
+    .firstdiv{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    
+    .content{
+        font-weight: 800;
+        font-family: sans-serif;
+        color: rgb(92, 0, 241);
+        text-align: center;
+        margin-top: 50px;
+        text-decoration: underline;
+        transition: color 0.3 ease;
+        transform: 0.3 ease;
+    } 
+    .firstimg{
+        width: 500px;
+        height: 400px;
+        margin-top: 80px;
+    }
+    .content:hover{
+      cursor: pointer;
+      color: rgb(65, 0, 139);
+      transition: 0.6s;
+    transform: scale(1.05);
+    }
+    .head{
+        /* text-decoration: underline; */
+        font-family: sans-serif;
+    }
+    .para2{
+        font-family: sans-serif;
+        font-weight: 800;
+        text-decoration: underline;
+    }
+    .skills{
+        font-family: sans-serif;
+        font-weight: 800;  
+    }
+    .firstcon:hover{
+        cursor: pointer;
+        color: #ff6b3d;
+        transition: 0.6s;
+    }
+    .seccon:hover{
+        cursor: pointer;
+        color: #4e6fff;
+        transition: 0.6s;
+    }
+    .thirdcon:hover{
+        cursor: pointer;
+        color: #47f3ff;
+        transition: 0.6s;
+    }
+    .fourthcon:hover{
+        cursor: pointer;
+        color:#48c15d;
+        transition: 0.6s;
+    }
+    .fivecon:hover{
+        cursor: pointer;
+        color: #007b9e;
+        transition: 0.6s;
+    }
+    .h2 :hover{
+        cursor: pointer;
+        color: darkorchid;
+         text-decoration: underline;
+         transition: 0.6s;
+    }
+    .containerhead:hover{
+        cursor: pointer;
+        text-decoration: underline;
+        color: rgb(43, 43, 26);
+        transition: 0.6s;
+    }
+    .heading5 :hover{
+        transition: 0.6s;
+        cursor: pointer;
+        text-decoration: underline;
+        color: fuchsia;
+    }
+    .head :hover{
+        color: indigo;
+        text-decoration: underline;
+        cursor: pointer;
+        transition: 0.6s
+    }
+    
+      
